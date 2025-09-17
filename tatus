@@ -1,0 +1,21 @@
+*   [33m858cc69[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Resolver conflicto en app.py entre main y feature/mi-cambio
+[31m|[m[32m\[m  
+[31m|[m * [33mcf0e5cb[m[33m ([m[1;32mfeature/mi-cambio[m[33m)[m Feature: agregar print desde feature/mi-cambio
+[31m|[m * [33m6abf94c[m[33m ([m[1;31morigin/feature/mi-cambio[m[33m)[m Agregar app.py inicial
+[31m|[m * [33m890c765[m Agregar archivos de Proyector-Tecnicas
+* [32m|[m [33m09878b0[m[33m ([m[1;31morigin/main[m[33m)[m Main: agregar print distinto
+* [32m|[m [33mbf2bdf3[m Agregar app.py inicial
+* [32m|[m [33m9ce5045[m Agregar app.py inicial
+* [32m|[m [33mfd1315d[m Agregando Proyector-Tecnicas
+* [32m|[m [33m5c49d2a[m Semana 02: agregando archivo de práctica
+* [32m|[m [33m599c1bc[m Resolver conflicto en app.py entre main y feature/mi-cambio
+[33m|[m[32m\[m[32m|[m 
+[33m|[m * [33mac6b431[m Feature: agregar línea en app.py desde feature/mi-cambio
+[33m|[m * [33m7fac3e0[m Agregar cambio.py en feature/mi-cambio
+* [34m|[m [33mbbdda63[m Resolver conflicto en app.py y dejar versión final
+* [34m|[m [33mdd81564[m Main: cambio distinto en app.py
+* [34m|[m [33m4fbbb8c[m Agregar app.py inicial
+* [34m|[m [33m1f361a0[m Primer commit: agregar README con nombre del proyecto
+[34m|[m[34m/[m  
+* [33m936661a[m Feature: nuevo cambio
+* [33m149e02d[m Primer commit: README y .gitignore
