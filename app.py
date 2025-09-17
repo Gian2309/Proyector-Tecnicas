@@ -1,2 +1,2 @@
-"print('Hola desde Proyector-Tecnicas')" 
-"print('Cambio distinto desde main')" 
+print('Hola desde Proyector-Tecnicas')
+print('Cambio distinto desde main')
